@@ -76,7 +76,7 @@ body {
  
  nav {
  
-    background-color: #133b5c;
+    background-color: hsla(225, 100%, 25%, 0.7);
     padding: 20px;
     position: sticky;
     top: 0;
